@@ -3,5 +3,3 @@
 
 ###### Autors
 *Pablo Castro Valiño*
-*Brais Árias Río*
-

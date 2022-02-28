@@ -18,3 +18,77 @@ ul {
 .reveal section .imageWithLink img {
   padding: 0 !important;
 }
+
+.center-container {
+  display: flex;
+  place-content: center;
+  align-items: center;
+}
+
+/* Primary */
+/* background-color: #f6f8f9; */
+/* color: #656f75; */
+
+/* em */
+/* color: #20c997; */
+/* a */
+/* color: #0f798f; */
+
+/* Secondary */
+/* background-color: #333333; */
+/* color: #ffffff; */
+
+body {
+  background-color: #f6f8f9 !important;
+  color: #656f75 !important;
+}
+
+.reveal {
+  background-color: #f6f8f9 !important;
+  color: #656f75 !important;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #656f75 !important;
+  line-height: normal;
+  font-weight: 400;
+}
+
+.reveal section.secondary {
+  color: #ffffff !important;
+}
+
+.reveal section.secondary h1,
+.reveal section.secondary h2,
+.reveal section.secondary h3,
+.reveal section.secondary h4,
+.reveal section.secondary h5,
+.reveal section.secondary h6 {
+  color: #ffffff !important;
+}
+
+b {
+  font-weight: bold !important;
+}
+
+em {
+  color: #20c997 !important;
+}
+
+a {
+  color: #0f798f !important;
+}
+
+footer a {
+  color: #20c997 !important;
+}
+
+.text-small {
+  font-size: 24px !important;
+  font-weight: 400 !important;
+}

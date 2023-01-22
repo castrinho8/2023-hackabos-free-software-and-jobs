@@ -92,7 +92,6 @@ Mi experiencia
   - Proyecto europeo -> Amsterdam + Sicilia
 
 ============
-
 - Lo importante son las personas
   - GDG en malaga
   - FOSDEM trabajo a chavales
